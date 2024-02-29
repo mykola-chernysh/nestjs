@@ -1,5 +1,3 @@
-import * as process from 'process';
-
 import { Config } from './config.type';
 
 export default (): Config => ({
